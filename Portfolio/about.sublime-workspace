@@ -1,0 +1,479 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ligh",
+				"lightpink"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"st",
+				"strong"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"rot",
+				"rotate()"
+			],
+			[
+				"dr",
+				"darkblue"
+			],
+			[
+				"gree",
+				"green"
+			],
+			[
+				"roate",
+				"rotate()"
+			],
+			[
+				"trsa",
+				"transform"
+			],
+			[
+				"ro",
+				"rotate3d()"
+			],
+			[
+				"tras",
+				"transform"
+			],
+			[
+				"anim",
+				"animation-duration"
+			],
+			[
+				"ani",
+				"animation-timing-function"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"anima",
+				"animation-iteration-count"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"dare",
+				"darkred"
+			],
+			[
+				"tr",
+				"transition-timing-function"
+			],
+			[
+				"vi",
+				"darkviolet"
+			],
+			[
+				"vio",
+				"palevioletred"
+			],
+			[
+				"trasn",
+				"transition-duration"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"skew",
+				"skewY()"
+			],
+			[
+				"tran",
+				"transform"
+			],
+			[
+				"trs",
+				"transform"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"textde",
+				"text-decoration-line"
+			],
+			[
+				"un",
+				"underline"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"word",
+				"word-spacing"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"tra",
+				"transition-duration"
+			],
+			[
+				"broder",
+				"border-radius"
+			],
+			[
+				"li",
+				"link"
+			],
+			[
+				"co",
+				"content"
+			],
+			[
+				"i",
+				"infinite"
+			],
+			[
+				"brde",
+				"border-radius"
+			],
+			[
+				"borderco",
+				"border-color"
+			],
+			[
+				"wh",
+				"white"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"align",
+				"align-items"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"f",
+				"fieldset"
+			],
+			[
+				"auto",
+				"autofocus"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"font",
+				"font-smooth"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"cell",
+				"cellspacing"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"tb",
+				"tbody"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fnt",
+				"font-size"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"Da",
+				"darkred"
+			],
+			[
+				"bod",
+				"border"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 144.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/New folder (2)/co.hmtl.html",
+		"/F/New folder (2)/co.js",
+		"/F/New folder (2)/co.css",
+		"/F/New folder (2)/co1.css",
+		"/F/New folder (2)/pot.css",
+		"/F/New folder (2)/pot.html",
+		"/F/WebTech/loop.java",
+		"/F/WebTech/loops.java",
+		"/F/a.html",
+		"/F/WebTech/operator.js",
+		"/F/WebTech/demo.html",
+		"/F/WebTech/intro.mjs",
+		"/F/WebTech/intro.cjs",
+		"/F/WebTech/intro.js",
+		"/F/WebTech/introjs.html",
+		"/F/WebTech/ex1.html",
+		"/F/WebTech/ex.html",
+		"/F/WebTech/animation2.html",
+		"/F/WebTech/animation.html",
+		"/F/WebTech/transition.html",
+		"/F/WebTech/transform.html",
+		"/F/New folder (2)/a.css",
+		"/F/New folder (2)/a.html",
+		"/F/WebTech/insta.html",
+		"/F/AA.HTML",
+		"/F/WebTech/text Decoration 2prpperty.html",
+		"/F/WebTech/text Decoration prpperty.html",
+		"/F/WebTech/text Decoration.html",
+		"/F/WebTech/textproperty.html",
+		"/F/WebTech/backgroundpropertycss.html",
+		"/F/WebTech/external.css",
+		"/F/WebTech/vwlogo.html",
+		"/F/WebTech/externalcss.html",
+		"/F/WebTech/solar.html",
+		"/F/WebTech/textshadow.html",
+		"/F/WebTech/phoneno.validation.html",
+		"/F/WebTech/palindrome.html",
+		"/F/WebTech/table.html",
+		"/F/WebTech/image1.html",
+		"/F/WebTech/image.html",
+		"/F/WebTech/Chimur/onl.html",
+		"/F/WebTech/Audio.html",
+		"/F/WebTech/Formtag.html",
+		"/F/WebTech/RegistrationForm.html",
+		"/F/WebTech/solarsystem.html",
+		"/F/flip.html",
+		"/F/flipp.html",
+		"/F/WebTech/Chimur/contact.html",
+		"/F/WebTech/Chimur/touri.html",
+		"/F/WebTech/Chimur/tourism.html",
+		"/F/WebTech/Chimur/touris.html",
+		"/F/WebTech/Chimur/cityy.html",
+		"/F/WebTech/Chimur/cityyy,html.html",
+		"/F/WebTech/core.html",
+		"/F/WebTech/Abhijit.html",
+		"/F/WebTech/backgroundimg.hmtl",
+		"/F/WebTech/Name.html",
+		"/F/WebTech/audiosame.html",
+		"/F/WebTech/Video.html",
+		"/F/WebTech/anime.html",
+		"/F/WebTech/zoro.html",
+		"/F/WebTech/Abhi.html"
+	],
+	"find":
+	{
+		"height": 29.6
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tr",
+			"Total",
+			"<!DOCTYPE html>\n<html>\n<head>\n    <title>Tourism Website</title>\n    <style>\n        body {\n            font-family: Arial, sans-serif;\n            margin: 0;\n            padding: 0;\n        }\n        \n        header {\n            background-color: #333;\n            color: #fff;\n            padding: 20px;\n            text-align: center;\n        }\n        \n        nav {\n            background-color: #f4f4f4;\n            padding: 10px;\n        }\n        \n        nav ul {\n            list-style-type: none;\n            margin: 0;\n            padding: 0;\n            text-align: center;\n        }\n        \n        nav ul li {\n            display: inline;\n            margin-right: 10px;\n        }\n        \n        nav ul li a {\n            color: #333;\n            text-decoration: none;\n            padding: 5px 10px;\n        }\n        \n        section {\n            padding: 20px;\n            text-align: center;\n        }\n        \n        footer {\n            background-color: #333;\n            color: #fff;\n            padding: 10px;\n            text-align: center;\n        }\n    </style>\n</head>\n<body >\n    <img src=\"tadoba.jpg\">\n    <header>\n        <h1>Welcome to our Tourism Website</h1>\n    </header>\n    <nav>\n        <ul>\n            <li><a href=\"#\">Home</a></li>\n            <li><a href=\"#\">Destinations</a></li>\n            <li><a href=\"#\">Tours</a></li>\n            <li><a href=\"#\">About</a></li>\n            <li><a href=\"#\">Contact</a></li>\n        </ul>\n    </nav>\n    <section>\n        <h2>Explore the world with us!</h2>\n        <p>Welcome to our tourism website. We offer a wide range of destinations and tours for you to discover. Start your adventure now!</p>\n    </section>\n    <footer>\n        <p>&copy; 2023 Tourism Website. All rights reserved.</p>\n    </footer>\n</body>\n</html>\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.6
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "about.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 112.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
